@@ -19,7 +19,7 @@
 
 Every year, Time magazine publishes a list of the best 100 innovations of that year.
 
-1. Go to the list, choose an innovation, and select a product.
+1. Go to the list, choose an innovation.
 
 2. Think about look-alike innovation from the past. When you pick one, give your justifications in 1-2 paragraphs. 
 
